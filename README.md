@@ -87,5 +87,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Your Name**
+**Musfirah Kashan**
 🔗 [LinkedIn](https://www.linkedin.com/in/musfirah-kashan-487aa626a/) • 💻 [GitHub](https://github.com/musfirah-kashan)
